@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(53, 59, 64)   ;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:40px;
+}
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header__img{
+    width: 120px;
+    border-radius: 100%;
+}
+.header__title{
+    color:#4ab886;
+    font-size: 1.8em;
+}
+.header__subtitle{
+    color:#4ab886;
+    font-size: 0.9em;
+}
