@@ -16,6 +16,10 @@ Este site é a culminância dos conceitos básicos de desenvolvimento web que eu
 - [ x ] Animações suaves
 - [ _ ] Design responsivo (em progresso)
 
+## Autor
+
+📫Contato: andrewsanderf@gmail.com
+
 ## Deploy
 ![Preview da imagem](img/preview-linktree.png)
-Acesse Aqui 👉 [deploy do projeto]()
+Acesse Aqui 👉 [Deploy do projeto](https://linktree-two-coral.vercel.app)
