@@ -24,3 +24,8 @@ Este site é a culminância dos conceitos básicos de desenvolvimento web que eu
 ![Preview da imagem](img/preview-linktree.png)
 
 Acesse Aqui 👉 [Deploy do projeto](https://linktree-two-coral.vercel.app)
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+Sinta-se à vontade para usar, modificar e compartilhar!
