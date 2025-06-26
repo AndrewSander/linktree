@@ -22,4 +22,5 @@ Este site é a culminância dos conceitos básicos de desenvolvimento web que eu
 
 ## Deploy
 ![Preview da imagem](img/preview-linktree.png)
+
 Acesse Aqui 👉 [Deploy do projeto](https://linktree-two-coral.vercel.app)
